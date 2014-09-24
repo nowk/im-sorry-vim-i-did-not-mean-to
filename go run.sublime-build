@@ -1,0 +1,6 @@
+{
+	"shell_cmd": "go run $file",
+	"working_dir": "${folder}",
+	"selector": "source.go",
+	"shell": "zsh"
+}

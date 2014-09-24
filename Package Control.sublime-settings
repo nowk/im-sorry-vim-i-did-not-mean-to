@@ -1,0 +1,37 @@
+{
+	"installed_packages":
+	[
+		"AlignTab",
+		"Autoprefixer",
+		"ColorPicker",
+		"Colorsublime",
+		"CSS Color Converter",
+		"DocBlockr",
+		"GitGutter",
+		"GoSublime",
+		"Gutter Color",
+		"JavaScript & NodeJS Snippets",
+		"JavaScriptNext - ES6 Syntax",
+		"JSON Reindent",
+		"LESS",
+		"LiveReload",
+		"Markdown Preview",
+		"Mocha Snippets",
+		"MoveTab",
+		"Nodejs",
+		"Origami",
+		"Pretty YAML",
+		"Sourcegraph",
+		"SublimeCodeIntel",
+		"SublimeGit",
+		"sublimelint",
+		"SublimeLinter",
+		"SublimeLinter-contrib-golint",
+		"SublimeLinter-contrib-gotype",
+		"SublimeLinter-contrib-govet",
+		"SublimeLinter-jshint",
+		"Terminal",
+		"Vintage-Origami",
+		"Vintageous"
+	]
+}

@@ -1,0 +1,8 @@
+*.tmTheme
+linters/*
+
+Gist.sublime-settings
+
+*.last-run
+
+*.cache/

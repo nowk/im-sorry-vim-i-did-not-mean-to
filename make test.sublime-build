@@ -1,0 +1,5 @@
+{
+	"shell_cmd": "make test",
+	"working_dir": "${folder}",
+	"shell": "zsh"
+}

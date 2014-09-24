@@ -1,0 +1,9 @@
+{
+	"shell_cmd": "./node_modules/.bin/mocha $file --harmony --no-colors --reporter spec",
+	"working_dir": "${folder}",
+	"env": {
+		"NODE_ENV": "test"
+	},
+	"selector": "source.js",
+	"shell": "zsh"
+}

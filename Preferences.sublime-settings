@@ -1,87 +1,87 @@
 {
-  "binary_file_patterns":
-  [
-    "*.jpg",
-    "*.jpeg",
-    "*.png",
-    "*.gif",
-    "*.ttf",
-    "*.tga",
-    "*.dds",
-    "*.ico",
-    "*.eot",
-    "*.pdf",
-    "*.swf",
-    "*.jar",
-    "*.zip",
-    "*.test"
-  ],
-  "color_scheme": "Packages/User/Carbonnight (DC).tmTheme",
-  "file_exclude_patterns":
-  [
-    "*.pyc",
-    "*.pyo",
-    "*.exe",
-    "*.dll",
-    "*.obj",
-    "*.o",
-    "*.a",
-    "*.lib",
-    "*.so",
-    "*.dylib",
-    "*.ncb",
-    "*.sdf",
-    "*.suo",
-    "*.pdb",
-    "*.idb",
-    ".DS_Store",
-    "*.class",
-    "*.psd",
-    "*.db",
-    "*.sublime-workspace",
-    "*.sublime-project",
-    "*.test",
-    "*.sw*",
-    "*.gitkeep*"
-  ],
-  "folder_exclude_patterns":
-  [
-    ".svn",
-    ".git",
-    ".hg",
-    "CVS",
-    "node_modules",
-    "bower_components",
-    "css-cache",
-    "components"
-  ],
-  "font_face": "menlo",
-  "font_options":
-  [
-    "subpixel_antialias"
-  ],
-  "font_size": 11,
-  "highlight_line": true,
-  "ignored_packages":
-  [
-    "SublimeGit",
-    "Sourcegraph",
-    "GitGutter",
-    "Vintage"
-  ],
-  "line_padding_bottom": 3,
-  "line_padding_top": 2,
-  "rulers":
-  [
-    80
-  ],
-  "scroll_past_end": true,
-  "tab_size": 2,
-  "tabs_small": true,
-  "theme": "predawn.sublime-theme",
-  "vintage_start_in_command_mode": true,
-  "vintage_use_clipboard": true,
-  "vintageous_use_ctrl_keys": true,
-  "vintageous_use_sys_clipboard": false,
-  "word_wrap": true
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"*.test"
+	],
+	"color_scheme": "Packages/User/Carbonnight (DC).tmTheme",
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		"*.sublime-project",
+		"*.test",
+		"*.sw*",
+		"*.gitkeep*"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules",
+		"bower_components",
+		"css-cache",
+		"components"
+	],
+	"font_face": "menlo",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 11,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"SublimeGit",
+		"Vintage",
+		"Sourcegraph",
+		"GitGutter"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 2,
+	"rulers":
+	[
+		80
+	],
+	"scroll_past_end": true,
+	"tab_size": 2,
+	"tabs_small": true,
+	"theme": "predawn.sublime-theme",
+	"vintage_start_in_command_mode": true,
+	"vintage_use_clipboard": true,
+	"vintageous_use_ctrl_keys": true,
+	"vintageous_use_sys_clipboard": true,
+	"word_wrap": true
 }

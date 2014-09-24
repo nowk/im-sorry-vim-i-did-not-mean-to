@@ -113,4 +113,16 @@
       {"key": "selection_empty", "operator": "equal", "operand": false, "match_all": false}
     ] 
   },
+
+  // Vintageous
+  // this seems to fix an issue when pressing : you have to press an extra key
+  // then the actual key, eg :w becomes something like :<somekey>w then it saves 
+  {
+    "keys": [":"],
+    "command": "press_key", "args": {"key": ":"},   
+    "context": [
+      // {"key": "setting.command_mode", "operand": true},
+      {"key": "vi_command_mode_aware"}
+    ]
+  }, 
 ]

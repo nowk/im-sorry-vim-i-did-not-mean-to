@@ -125,4 +125,16 @@
       {"key": "vi_command_mode_aware"}
     ]
   }, 
+
+  // Use sublime-CopyBlock to fix visual block Y yank 
+  {
+    "keys": ["Y"], 
+    "command": "copy_block", // "args": {"key": "Y"}, 
+    "context": [
+      // {"key": "vi_command_mode_aware"},
+      {"key": "setting.command_mode", "operand": true},
+      {"key": "num_selections", "operand": 1},
+      {"key": "selection_empty", "operator": "equal", "operand": false, "match_all": false}
+    ]
+  },
 ]

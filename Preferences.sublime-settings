@@ -67,9 +67,11 @@
 	"ignored_packages":
 	[
 		"SublimeGit",
-		"Vintage",
+		"sublimelint",
 		"Sourcegraph",
-		"GitGutter"
+		"Vintage",
+		"GitGutter",
+		"Gist"
 	],
 	"line_padding_bottom": 3,
 	"line_padding_top": 2,

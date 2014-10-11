@@ -33,7 +33,7 @@
                 "excludes": []
             }
         },
-        "mark_style": "outline",
+        "mark_style": "none",
         "no_column_highlights_line": false,
         "paths": {
             "linux": [],

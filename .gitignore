@@ -7,3 +7,6 @@ GitHub.sublime-settings
 *.last-run
 
 *.cache/
+Package Control.system-ca-bundle
+log.txt
+GoSublime-aux.sublime-settings

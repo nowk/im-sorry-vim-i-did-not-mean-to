@@ -137,4 +137,38 @@
       {"key": "selection_empty", "operator": "equal", "operand": false, "match_all": false}
     ]
   },
+
+  // easymotion
+  { 
+    "keys": ["ctrl+l", "<character>"], 
+    "command": "easy_motion", "args": {"select_text": false},
+    "context": [
+      {"key": "setting.command_mode", "operand": true},
+    ]
+  },
+  { 
+    "keys": ["ctrl+l", "enter"], 
+    "command": "easy_motion", "args": {
+      "select_text": false, "character": "enter"
+    },
+    "context": [
+      {"key": "setting.command_mode", "operand": true},
+    ]
+  },
+  { 
+    "keys": ["ctrl+shift+l", "<character>"], 
+    "command": "easy_motion", "args": {"select_text": true},
+    "context": [
+      {"key": "setting.command_mode", "operand": true},
+    ]
+  },
+  { 
+    "keys": ["ctrl+shift+l", "enter"], 
+    "command": "easy_motion", "args": {
+      "select_text": true, "character": "enter"
+    },
+    "context": [
+      {"key": "setting.command_mode", "operand": true},
+    ]
+  }
 ]

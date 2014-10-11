@@ -1,0 +1,6 @@
+{
+	"shell_cmd": "bundle exec rspec $file --format documentation",
+	"working_dir": "${folder}",
+	"selector": "source.ruby",
+	"shell": "zsh"
+}

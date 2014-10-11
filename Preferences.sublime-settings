@@ -17,6 +17,7 @@
 		"*.zip",
 		"*.test"
 	],
+	"caret_style": "solid",
 	"color_scheme": "Packages/User/Carbonnight (DC).tmTheme",
 	"file_exclude_patterns":
 	[

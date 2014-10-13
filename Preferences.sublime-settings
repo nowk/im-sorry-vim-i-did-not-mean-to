@@ -21,6 +21,7 @@
 	"color_scheme": "Packages/User/Carbonnight (DC).tmTheme",
 	"file_exclude_patterns":
 	[
+		"*.orig",
 		"*.pyc",
 		"*.pyo",
 		"*.exe",
@@ -55,7 +56,9 @@
 		"node_modules",
 		"bower_components",
 		"css-cache",
-		"components"
+		"components",
+		".sass-cache",
+		".bundle"
 	],
 	"font_face": "menlo",
 	"font_options":

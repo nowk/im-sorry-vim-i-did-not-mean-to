@@ -10,8 +10,8 @@
     // {"cmd": ["go", "vet"], "shell": true},
     // {"cmd": ["gotype -a -e"], "shell": true},
     // {"cmd": ["golint *.go"], "shell": true},
-    // {"cmd": ["go", "install"]},
-    {"cmd": ["go", "build"]},
+    {"cmd": ["go", "install"]},
+    // {"cmd": ["go", "build"]},
   ],
 
   "linters": [

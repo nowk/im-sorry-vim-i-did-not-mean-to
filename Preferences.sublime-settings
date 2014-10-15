@@ -86,6 +86,7 @@
 		80
 	],
 	"scroll_past_end": true,
+	"sidebar_large": true,
 	"tab_size": 2,
 	"tabs_medium": true,
 	"theme": "predawn.sublime-theme",
@@ -93,6 +94,5 @@
 	"vintage_use_clipboard": true,
 	"vintageous_use_ctrl_keys": true,
 	"vintageous_use_sys_clipboard": true,
-	"word_wrap": true,
-	"sidebar_large": true
+	"word_wrap": true
 }

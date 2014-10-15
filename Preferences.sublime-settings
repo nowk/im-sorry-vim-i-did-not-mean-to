@@ -69,14 +69,11 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"GitGutter",
-		"SublimeGit",
 		"Sourcegraph",
-		"sublimelint",
+		"SublimeGit",
 		"Groovy",
-		"Gist",
 		"Vintage",
-		"SublimeLinter-contrib-gotype",
+		"SublimeLinter-contrib-gotype"
 	],
 	"line_padding_bottom": 3,
 	"line_padding_top": 2,

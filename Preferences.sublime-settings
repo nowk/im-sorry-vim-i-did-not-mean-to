@@ -71,10 +71,13 @@
 	[
 		"Sourcegraph",
 		"SublimeGit",
-		"Groovy",
+		"InactivePanes",
 		"Vintage",
-		"SublimeLinter-contrib-gotype"
+		"SublimeLinter-contrib-gotype",
+		"Groovy"
 	],
+	"inactive_panes_dim_color": "#000000",
+	"inactive_panes_dim_strength": 0.25,
 	"line_padding_bottom": 3,
 	"line_padding_top": 2,
 	"overlay_scroll_bars": "enabled",
@@ -84,11 +87,12 @@
 	],
 	"scroll_past_end": true,
 	"tab_size": 2,
-	"tabs_small": true,
+	"tabs_medium": true,
 	"theme": "predawn.sublime-theme",
 	"vintage_start_in_command_mode": true,
 	"vintage_use_clipboard": true,
 	"vintageous_use_ctrl_keys": true,
 	"vintageous_use_sys_clipboard": true,
-	"word_wrap": true
+	"word_wrap": true,
+	"sidebar_large": true
 }

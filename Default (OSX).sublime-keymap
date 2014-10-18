@@ -183,4 +183,8 @@
   // unbind
   // toggle_side_bar
   {"keys": ["super+k", "super+b"], "command": "unbound"},
+
+  // toggle_comment
+  {"keys": ["super+forward_slash"], "command": "unbound", "args": {"block": false}},
+  {"keys": ["super+alt+forward_slash"], "command": "unbound", "args": {"block": true}},
 ]

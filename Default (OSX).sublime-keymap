@@ -114,6 +114,14 @@
     ] 
   },
 
+  // nerdtree style toggle binding <leader>p
+  {
+    "keys": ["\\", "p"], "command": "toggle_side_bar",
+    "context": [
+      {"key": "setting.command_mode", "operand": true}
+    ]
+  },
+
   // Vintageous
   // this seems to fix an issue when pressing : you have to press an extra key
   // then the actual key, eg :w becomes something like :<somekey>w then it saves 
@@ -170,5 +178,9 @@
     "context": [
       {"key": "setting.command_mode", "operand": true},
     ]
-  }
+  },
+
+  // unbind
+  // toggle_side_bar
+  {"keys": ["super+k", "super+b"], "command": "unbound"},
 ]

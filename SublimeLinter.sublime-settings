@@ -25,7 +25,7 @@
                 "args": [],
                 "excludes": [],
                 "ignore_match": [
-                    "exported (\\w+) ([\\w_]+) should have comment or be unexported"
+                    "exported (\\w+) ([\\w_.]+) should have comment or be unexported"
                 ]
             },
             "gotype": {

@@ -25,7 +25,9 @@
                 "args": [],
                 "excludes": [],
                 "ignore_match": [
-                    "exported (\\w+) ([\\w_.]+) should have comment or be unexported"
+                    "exported (\\w+) ([\\w_.]+) should have comment( \\(or a comment on this block\\))? or be unexported",
+                    "should not use dot imports",
+                    "package comment should be"
                 ]
             },
             "gotype": {

@@ -45,7 +45,8 @@
 		"*.sublime-project",
 		"*.test",
 		"*.sw*",
-		"*.gitkeep*"
+		"*.gitkeep*",
+		"*.rej"
 	],
 	"folder_exclude_patterns":
 	[
